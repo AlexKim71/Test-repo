@@ -1,16 +1,3 @@
 # Test-repo
-в
 
-
-dfdfdf
-
-dfdf
-d
-f
-d
-f
-d
-f
-d
-f
-df
+100 times not giving up
